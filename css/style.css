@@ -1,0 +1,48 @@
+.card-body > i {
+    font-size: 50px;
+    color: #4648C8;
+}
+
+.card-body .row i {
+    font-size: 40px;
+    color: #00d200;
+}
+
+#allBudget, #expenses, #balance {
+    font-size: 48px;
+    color: #00d200;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.expensesText .row i, .expensesText .row #expenses {
+    color: mediumvioletred;
+}
+
+#blockName, #blockValue {
+    color: mediumvioletred;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.fa-edit {
+    font-size: 20px;
+    color: #00d200;
+}
+.btn-outline-danger:hover,.btn-outline-danger:focus {
+    color: black !important;
+    background-color: white !important;
+    border-color: #dc3545;
+}
+
+#jumbotron-2, #jumbotron {
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:50%;
+    background-color: #ffd7c3;
+    color:black;
+    border-radius: 10px;
+}
